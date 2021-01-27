@@ -14,21 +14,3 @@
   src: local(''),
        url('/Lato-Italic.ttf') format('ttf');
 }
-
-{{ with $.Site.Params.customtextFontFamily }}
-$textFontFamily: {{ . }}, sans-serif;
-{{ end }}
-
-{{ with $.Site.Params.customheadingFontFamily }}
-$headingFontFamily: {{ . }}, serif;
-{{ end }}
-
-body {
-  font-family: $textFontFamily;
-}
-h1, h2, h3, h4, h5, h6 {
-  font-family: $headingFontFamily;
-}
-details#PageTableOfContents summary {
-  font-family: $headingFontFamily;
-}
