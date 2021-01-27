@@ -1,9 +1,9 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Emily Cooper"
+author: "Meghan Hall"
 role: "Social media strategy @ Savoir"
-avatar: avatar.jpg
-avatar_shape: rounded # circle, square, rounded
+avatar: headshot.jpg
+avatar_shape: circle # circle, square, rounded
 show_social: true
 show_audio_link: true
 audio_link: 
