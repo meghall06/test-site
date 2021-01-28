@@ -50,8 +50,8 @@ enableEmoji = true
   # alternatively, use a built-in font-family
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Alegreya Sans / Metropolis
-  customtextFontFamily = "Lato"
-  customheadingFontFamily = "Bebas"
+  customtextFontFamily = "Commissioner"
+  customheadingFontFamily = "BebasNeue"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
